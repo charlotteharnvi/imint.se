@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oms on Imint</title>
+    <link>http://imint.se/om/</link>
+    <description>Recent content in Oms on Imint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Wed, 14 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://imint.se/om/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Karriär</title>
+      <link>http://imint.se/om/karriar/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/om/karriar/</guid>
+      <description>&lt;p&gt;Att jobba på Imint&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ledning</title>
+      <link>http://imint.se/om/ledning/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/om/ledning/</guid>
+      <description>
+
+&lt;h1 id=&#34;andreas:8ed5a6d2e743c11fef62fc82b3a6ffd2&#34;&gt;Andreas&lt;/h1&gt;
+
+&lt;h1 id=&#34;simon:8ed5a6d2e743c11fef62fc82b3a6ffd2&#34;&gt;Simon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Styrelse</title>
+      <link>http://imint.se/om/styrelse/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/om/styrelse/</guid>
+      <description>
+
+&lt;h1 id=&#34;gösta:32bc5c82b823f282a3aab3c59fa6bda2&#34;&gt;Gösta&lt;/h1&gt;
+
+&lt;h1 id=&#34;toc_1:32bc5c82b823f282a3aab3c59fa6bda2&#34;&gt;&amp;hellip;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakta Imint</title>
+      <link>http://imint.se/om/kontakt/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/om/kontakt/</guid>
+      <description>&lt;p&gt;För att kontakta Imint &amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Om Imint</title>
+      <link>http://imint.se/om/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/om/</guid>
+      <description>&lt;p&gt;En text om Imint&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

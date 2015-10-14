@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Losningars on Imint</title>
+    <link>http://imint.se/losningar/</link>
+    <description>Recent content in Losningars on Imint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Wed, 14 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://imint.se/losningar/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integration i telefon</title>
+      <link>http://imint.se/losningar/telefon/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/losningar/telefon/</guid>
+      <description>&lt;p&gt;Imint Vidhance video förbättring kan integreras i en moderns telefons operativsystem.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

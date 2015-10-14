@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nyheters on Imint</title>
+    <link>http://imint.se/nyheter/</link>
+    <description>Recent content in Nyheters on Imint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Thu, 09 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://imint.se/nyheter/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imint i Swedish Startup Space</title>
+      <link>http://imint.se/nyheter/20150709-Swedish-Startup-Space/</link>
+      <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/nyheter/20150709-Swedish-Startup-Space/</guid>
+      <description>&lt;p&gt;Swedish Startup Space skrev en positiv (&lt;a href=&#34;http://swedishstartupspace.com/2015/07/09/imint-uppsala-auto-zoom/)[artikel&#34;&gt;http://swedishstartupspace.com/2015/07/09/imint-uppsala-auto-zoom/)[artikel&lt;/a&gt;] om Imint.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
